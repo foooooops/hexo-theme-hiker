@@ -12,6 +12,7 @@ menu:
   #关于: /about
 rss: /atom.xml
 
+
 since: 2013
 
 # Set default keywords (Use a comma to separate)
@@ -90,9 +91,9 @@ search:
 
 
 # comment ShortName, you can choose only ONE to display.
-gentie_productKey: #your-gentie-product-key
-duoshuo_shortname: 
-disqus_shortname: iTimeTraveler
+gentie_productKey: #e5ff33a323b34ea99ff2f356e3bf145b
+duoshuo_shortname: #foooooops
+disqus_shortname: # foooooops
 
 
 # Code Highlight theme
@@ -156,5 +157,5 @@ show_busuanzi_view_counts: true
 donate:
     enable: true
     message: '如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作~'
-    wechatImage: https://raw.githubusercontent.com/foooooops/foooooops.github.io/master/css/images/WeChatQR.png
-    alipayImage: https://raw.githubusercontent.com/foooooops/foooooops.github.io/master/css/images/AlipayQR.png
+    wechatImage: css/images/WeChatQR.png #https://raw.githubusercontent.com/foooooops/foooooops.github.io/master/css/images/WeChatQR.png
+    alipayImage: css/images/ #https://raw.githubusercontent.com/foooooops/foooooops.github.io/master/css/images/AlipayQR.png
